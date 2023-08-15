@@ -60,3 +60,11 @@ body {
   .a-pokemon {
     color: #f4f4f4;
   }
+  .container-blogs {
+    text-align: center;
+    padding: 2em;
+    background-color: #333;
+  }
+  .a-blogs {
+    color: #f4f4f4;
+  }
