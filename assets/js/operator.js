@@ -1,4 +1,3 @@
-<<<<<<< feature/blogs
 const students = ["student1", "student2", "student3"];
 let students2 = [];
 let student1;
@@ -19,4 +18,3 @@ do {
 } while (i<5);
 
 console.log(result);
->>>>>>> main
