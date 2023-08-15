@@ -8,7 +8,7 @@ students.forEach((item) => {
 });
 
 console.log(student1);
-=======
+
 let result = '';
 let i = 1;
 
