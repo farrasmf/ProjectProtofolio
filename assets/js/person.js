@@ -6,7 +6,7 @@ class Person {
         this.gender = gender;
     }
 
-    #setTitle() {
+    setTitle() {
         if (this.gender === "L") {
             this.name = `Tuan ${this.name}`;
         } else {
